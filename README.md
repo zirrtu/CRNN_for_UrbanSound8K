@@ -19,5 +19,10 @@ After extraction, run the training script through the command
 
 `python CRNNtrain.py`
 
-
 After the training, the weight file will be saved as mm.pt
+
+This is the structure of the network
+![image](https://github.com/zirrtu/CRNN_for_UrbanSound8K/blob/main/img/net.png)
+
+This is the image of the accuracy of the training set and the verification set during the training process
+![image](https://github.com/zirrtu/CRNN_for_UrbanSound8K/blob/main/img/acc_and_val.png)
