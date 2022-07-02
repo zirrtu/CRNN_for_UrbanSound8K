@@ -2,7 +2,7 @@
 A code that uses crnn to process urbansound 8K data sets
 
 First, you have to install the dependent environment. Use the command
-`pip install -r requirements to install`
+`pip install -r requirements`
 
 
 Secondly, you need to download the urbansound8k dataset and put it under the project root directory. You can download it according to this link
