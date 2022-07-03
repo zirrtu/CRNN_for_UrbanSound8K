@@ -28,3 +28,5 @@ This is the structure of the network
 This is the image of the accuracy of the training set and the verification set during the training process
 
 ![image](https://github.com/zirrtu/CRNN_for_UrbanSound8K/blob/main/img/acc_and_val.png)
+
+or you can learn more information on my blog
